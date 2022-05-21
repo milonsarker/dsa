@@ -1,6 +1,6 @@
 #https://leetcode.com/problems/maximum-subarray/
 
-#Simple Solutio
+#Kadane's Algorithm
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
         curr_subarr  = max_subarr = nums[0]
