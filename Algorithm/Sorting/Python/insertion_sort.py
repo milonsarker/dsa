@@ -15,3 +15,4 @@ if __name__ == "__main__":
     data_desc = [99, 98, 10, 9, 1, -100]
     sorted_data = insertion_sort(data)
     print(sorted_data)
+    print('hello there')
