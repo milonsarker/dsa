@@ -18,3 +18,9 @@ class Solution:
                 stack = []
         return ''.join(result)
 
+
+#from leetcode solution
+
+class Solution:
+    def interpret(self, command: str) -> str:
+        return command.replace('()','o').replace('(al)','al')
