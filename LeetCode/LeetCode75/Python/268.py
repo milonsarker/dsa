@@ -11,7 +11,7 @@ class Solution:
                 return i
         return i + 1
 
-#Bit Manipulation
+#Bit Manipulation; Complexity = O(n)
 
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
@@ -19,3 +19,11 @@ class Solution:
         for i, num in enumerate(nums):
             missing_number = missing_number ^ i ^ num
         return missing_number
+
+#Gauss Formula; Complexity = O(n)
+class Solution:
+    def missingNumber(self, nums: List[int]) -> int:
+        n = len(nums)
+        gauss_val = n * (n + 1)/2
+        nums_sum = sum(nums)
+        return round(gauss_val - nums_sum)
