@@ -11,3 +11,11 @@ class Solution:
                 return i
         return i + 1
 
+#Bit Manipulation
+
+class Solution:
+    def missingNumber(self, nums: List[int]) -> int:
+        missing_number = len(nums)
+        for i, num in enumerate(nums):
+            missing_number = missing_number ^ i ^ num
+        return missing_number
