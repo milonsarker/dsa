@@ -1,4 +1,10 @@
-Purpose of the Project : dsa
+# Project : Data Structures and Algorithms
+
+# Purpose
   - Solving new problems
-  - Learn/practice algorithmic problems
-  - Keep practising
+  - Learn new/unknown algorithms
+  - Practise data structures
+  - Keep practising problem solving
+
+# Progress
+-- Solve 400 Problems
