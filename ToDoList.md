@@ -1,37 +1,38 @@
-<details>
-    <summary>Click to expand!</summary>
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Chapter 1](#chapter-1)
+3. [Chapter 2](#chapter-2)
 
-        ### January, 2024
-        #### Data Structures
-        - Stack :
-            - [] Problem : https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
+### February, 2024
+#### Data Structures
+- Stack :
+    - [] Problem : https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
 
-        #### Algorithms
-        - Rabin Karp Algorithm :
-            - [] Problem : https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
+#### Algorithms
+- Rabin Karp Algorithm :
+    - [] Problem : https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
 
-        #### Pandas
-        - Merge :
-            - [] Problem : https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
+#### Pandas
+- Merge :
+    - [] Problem : https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
 
-        #### Databases
-        - Running Sum :
-            - [] Problem : https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
+#### Databases
+- Running Sum :
+    - [] Problem : https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
 
-        ### January, 2024
-        #### Data Structures
-        - Rabin Karp Algorithm :
-            - [x] Problem : https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
+### January, 2024
+#### Data Structures
+- Rabin Karp Algorithm :
+    - [x] Problem : https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
 
-        #### Algorithms
-        - Rabin Karp Algorithm :
-            - [x] Problem : https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
+#### Algorithms
+- Rabin Karp Algorithm :
+    - [x] Problem : https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
 
-        #### Pandas
-        - Rabin Karp Algorithm :
-            - [x] Problem : https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
+#### Pandas
+- Rabin Karp Algorithm :
+    - [x] Problem : https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
 
-        #### Databases
-        - Rabin Karp Algorithm :
-            - [x] Problem : https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
-</details>
+#### Databases
+- Rabin Karp Algorithm :
+    - [x] Problem : https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
