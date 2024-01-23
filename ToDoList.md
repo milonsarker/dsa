@@ -1,7 +1,6 @@
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Chapter 1](#chapter-1)
-3. [Chapter 2](#chapter-2)
+- [January, 2024](#january-2024)
+- [January, 2024](#january-2024)
 
 ### February, 2024
 #### Data Structures
