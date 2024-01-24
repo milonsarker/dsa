@@ -31,7 +31,7 @@
 #### Pandas
 - RANK :
     - [x] Problem : https://leetcode.com/problems/rank-scores/
--Lambda Function: 
+- Lambda Function: 
     - [x] Problem : https://leetcode.com/problems/ads-performance/
 
 #### Databases
