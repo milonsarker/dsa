@@ -30,8 +30,8 @@
 
 #### Pandas
 - RANK :
-    - [x] - 01 : https://leetcode.com/problems/rank-scores/
-    - [] - 02 https://leetcode.com/problems/nth-highest-salary/
+    [x] - 01 : https://leetcode.com/problems/rank-scores/
+    [] - 02 https://leetcode.com/problems/nth-highest-salary/
 - Lambda Function: 
     - [x] Problem : https://leetcode.com/problems/ads-performance/
 
