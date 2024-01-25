@@ -36,7 +36,9 @@
     - [x] https://leetcode.com/problems/ads-performance/
 
 #### Databases
-- LEAD Function :
+- LEAD Function
     - [x] https://leetcode.com/problems/find-active-users/
+- Window Function
+    - [x] https://leetcode.com/problems/manager-of-the-largest-department/
 - General
     - [x] https://leetcode.com/problems/friday-purchases-i/
