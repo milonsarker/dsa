@@ -21,8 +21,8 @@
 
 ### January, 2024
 #### Data Structures
-- Rabin Karp Algorithm :
-    - [x] Problem : https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
+- Strings :
+    - [x] https://leetcode.com/problems/merge-strings-alternately/
 
 #### Algorithms
 - Rabin Karp Algorithm :
@@ -30,8 +30,8 @@
 
 #### Pandas
 - RANK :
-    - [x] - 01 : https://leetcode.com/problems/rank-scores/
-    - [] - 02 https://leetcode.com/problems/nth-highest-salary/
+    - [x] https://leetcode.com/problems/rank-scores/
+    - [] https://leetcode.com/problems/nth-highest-salary/
 - Lambda Function: 
     - [x] Problem : https://leetcode.com/problems/ads-performance/
 
