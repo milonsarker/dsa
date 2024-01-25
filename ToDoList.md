@@ -5,20 +5,18 @@
 ### February, 2024
 #### Data Structures
 - Stack :
-    - [] Problem : https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
-
+    - [] Problem 
 #### Algorithms
 - Rabin Karp Algorithm :
-    - [] Problem : https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
+    - [] Problem 
 
 #### Pandas
 - Merge :
-    - [] Problem : https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
+    - [] Problem
 
 #### Databases
 - Running Sum :
-    - [] Problem : https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
-
+    - [] 
 ### January, 2024
 #### Data Structures
 - Strings :
@@ -40,5 +38,7 @@
     - [x] https://leetcode.com/problems/find-active-users/
 - Window Function
     - [x] https://leetcode.com/problems/manager-of-the-largest-department/
+- Ranking
+    - [x] https://leetcode.com/problems/find-peak-calling-hours-for-each-city/
 - General
     - [x] https://leetcode.com/problems/friday-purchases-i/
