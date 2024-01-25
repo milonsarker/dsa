@@ -33,8 +33,10 @@
     - [x] https://leetcode.com/problems/rank-scores/
     - [] https://leetcode.com/problems/nth-highest-salary/
 - Lambda Function: 
-    - [x] Problem : https://leetcode.com/problems/ads-performance/
+    - [x] https://leetcode.com/problems/ads-performance/
 
 #### Databases
 - LEAD Function :
-    - [x] Problem : https://leetcode.com/problems/find-active-users/
+    - [x] https://leetcode.com/problems/find-active-users/
+- General
+    - [x] https://leetcode.com/problems/friday-purchases-i/
