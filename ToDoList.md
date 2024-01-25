@@ -34,8 +34,9 @@
     - [x] https://leetcode.com/problems/ads-performance/
 
 #### Databases
-- LEAD Function
+- LEAD/LAG Function
     - [x] https://leetcode.com/problems/find-active-users/
+    - [] https://leetcode.com/problems/rolling-average-steps/
 - Window Function
     - [x] https://leetcode.com/problems/manager-of-the-largest-department/
 - Ranking
