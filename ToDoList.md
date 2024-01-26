@@ -39,6 +39,7 @@
     - [] https://leetcode.com/problems/rolling-average-steps/
 - Window Function
     - [x] https://leetcode.com/problems/manager-of-the-largest-department/
+    - []  https://leetcode.com/problems/rolling-average-steps/
 - Ranking
     - [x] https://leetcode.com/problems/find-peak-calling-hours-for-each-city/
 - General
