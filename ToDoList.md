@@ -37,6 +37,7 @@
 - LEAD/LAG Function
     - [x] https://leetcode.com/problems/find-active-users/
     - [] https://leetcode.com/problems/rolling-average-steps/
+    - [x] https://leetcode.com/problems/find-third-transaction/
 - Window Function
     - [x] https://leetcode.com/problems/manager-of-the-largest-department/
     - []  https://leetcode.com/problems/rolling-average-steps/
