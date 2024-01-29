@@ -5,18 +5,13 @@
 ### February, 2024
 #### Data Structures
 - Stack :
-    - [] Problem 
 #### Algorithms
 - Rabin Karp Algorithm :
-    - [] Problem 
-
 #### Pandas
 - Merge :
-    - [] Problem
-
 #### Databases
 - Running Sum :
-    - [] 
+
 ### January, 2024
 #### Data Structures
 - Strings :
@@ -46,3 +41,4 @@
     - [x] #https://leetcode.com/problems/market-analysis-iii/
 - General
     - [x] https://leetcode.com/problems/friday-purchases-i/
+    - [x] https://leetcode.com/problems/flight-occupancy-and-waitlist-analysis/
