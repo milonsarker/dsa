@@ -43,5 +43,6 @@
     - []  https://leetcode.com/problems/rolling-average-steps/
 - Ranking
     - [x] https://leetcode.com/problems/find-peak-calling-hours-for-each-city/
+    - [x] #https://leetcode.com/problems/market-analysis-iii/
 - General
     - [x] https://leetcode.com/problems/friday-purchases-i/
