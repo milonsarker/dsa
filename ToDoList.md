@@ -44,3 +44,4 @@
 - General
     - [x] https://leetcode.com/problems/friday-purchases-i/
     - [x] https://leetcode.com/problems/flight-occupancy-and-waitlist-analysis/
+    - [x] https://leetcode.com/problems/sales-by-day-of-the-week/
