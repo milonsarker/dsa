@@ -10,7 +10,8 @@
 #### Pandas
 - Merge :
 #### Databases
-- Running Sum :
+- Ranking:
+    - [x] https://leetcode.com/problems/friday-purchases-ii/
 
 ### January, 2024
 #### Data Structures
@@ -40,7 +41,7 @@
     - []  https://leetcode.com/problems/rolling-average-steps/
 - Ranking
     - [x] https://leetcode.com/problems/find-peak-calling-hours-for-each-city/
-    - [x] #https://leetcode.com/problems/market-analysis-iii/
+    - [x] https://leetcode.com/problems/market-analysis-iii/
 - General
     - [x] https://leetcode.com/problems/friday-purchases-i/
     - [x] https://leetcode.com/problems/flight-occupancy-and-waitlist-analysis/
