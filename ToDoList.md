@@ -12,6 +12,7 @@
 #### Databases
 - Ranking:
     - [x] https://leetcode.com/problems/friday-purchases-ii/
+    - [x] https://leetcode.com/problems/viewers-turned-streamers/
 
 ### January, 2024
 #### Data Structures
