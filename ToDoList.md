@@ -4,7 +4,9 @@
 
 ### February, 2024
 #### Data Structures
-- Stack :
+- Array :
+    - [x] https://leetcode.com/problems/truncate-sentence/
+
 #### Algorithms
 - Rabin Karp Algorithm :
 #### Pandas
