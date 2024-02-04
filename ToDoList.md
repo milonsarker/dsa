@@ -6,6 +6,8 @@
 #### Data Structures
 - Array :
     - [x] https://leetcode.com/problems/truncate-sentence/
+- Math: 
+    - [x] https://leetcode.com/problems/find-the-maximum-achievable-number/
 
 #### Algorithms
 - Rabin Karp Algorithm :
