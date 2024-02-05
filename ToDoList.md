@@ -10,6 +10,7 @@
 - Math: 
     - [x] https://leetcode.com/problems/find-the-maximum-achievable-number/
     - [x] https://leetcode.com/problems/smallest-even-multiple/
+    - [x] https://leetcode.com/problems/sum-multiples/
 
 #### Algorithms
 - Rabin Karp Algorithm :
