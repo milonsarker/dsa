@@ -16,6 +16,8 @@
 - Rabin Karp Algorithm :
 #### Pandas
 - Merge :
+    - [x] https://leetcode.com/problems/combine-two-tables/
+
 #### Databases
 - Ranking:
     - [x] https://leetcode.com/problems/friday-purchases-ii/
