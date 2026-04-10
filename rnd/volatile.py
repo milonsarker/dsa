@@ -7,3 +7,6 @@ students = pd.DataFrame(data, columns=['id', 'name', 'department_id']).astype({'
 
 students_with_no_department = students.merge(departments, how='left', left_on='department_id', right_on='id', suffixes=('_student', '_department'))
 print(students_with_no_department[students_with_no_department['id_department'].isnull()])
+
+
+
